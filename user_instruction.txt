@@ -1,0 +1,7 @@
+ Welcome to the Online Retail Analytics App!
+    1. Enter 1 to get the Level 1 Analysis.
+    2. Enter 2 to get the Level 2 Analysis.
+    3. Enter 3 to get the Level 3 Analytics.
+    4. Enter Any Number else to Exit
+Enter your input: 
+;
